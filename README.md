@@ -8,23 +8,23 @@
 
 ## 📊 Mi Perfil en un Vistazo
 
-- Data Analysis: Convirtiendo datos complejos en insights accionables.
+- **Data Analysis:** Convirtiendo datos complejos en insights accionables.
 
-- Gestión Empresarial: Background en administración y optimización de procesos.
+- **Gestión Empresarial:** Background en administración y optimización de procesos.
 
-- Comunicación Estratégica: Desarrollando mensajes claros y efectivos para diversas audiencias.
+- **Comunicación Estratégica:** Desarrollando mensajes claros y efectivos para diversas audiencias.
 
 ## 🚀 Mi Trayectoria
 
 Mi base se asienta en la Gestión Ejecutiva y el Soporte Estratégico (formación en Asistencia a Dirección). Esto me ha dotado de habilidades clave en:
 
-- Organización y Coordinación: Experiencia en optimización de flujos de trabajo y gestión de proyectos.
+- **Organización y Coordinación:** Experiencia en optimización de flujos de trabajo y gestión de proyectos.
 
-- Eficiencia Operativa: Orientación a la mejora continua y el uso inteligente de herramientas.
+- **Eficiencia Operativa:** Orientación a la mejora continua y el uso inteligente de herramientas.
 
-- Resolución Proactiva: Capacidad para identificar y solucionar desafíos en entornos dinámicos.
+- **Resolución Proactiva:** Capacidad para identificar y solucionar desafíos en entornos dinámicos.
 
-- Actualmente, estoy aplicando esta visión sistémica y mi experiencia administrativa al Análisis de Datos, buscando fusionar la eficiencia operativa con el poder de los datos.
+- **Actualmente, estoy aplicando esta visión sistémica y mi experiencia administrativa al Análisis de Datos, buscando fusionar la eficiencia operativa con el poder de los datos.**
 
 ## 🌱 Mi Enfoque
 
