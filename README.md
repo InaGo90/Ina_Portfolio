@@ -2,7 +2,9 @@
 
 **Transformando Datos, Optimizando Procesos y Conectando Personas.**
 
-## ¡Bienvenido/a a mi portfolio digital! Soy Ina, una profesional en reciclaje hacia el mundo tech, apasionada por el análisis de datos y la comunicación estratégica. Mi objetivo es aportar valor en entornos innovadores, especialmente en Vigo, donde busco conectar con empresas que apuestan por el talento de bootcamps.
+### ¡Bienvenida/o a mi portfolio digital! 
+
+## Soy una profesional en reciclaje hacia el mundo tech, apasionada por el análisis de datos y la comunicación estratégica. Mi objetivo es aportar valor en entornos innovadores, especialmente en Vigo, donde busco conectar con empresas que apuestan por el talento de bootcamps.
 
 ## 📊 Mi Perfil en un Vistazo
 
