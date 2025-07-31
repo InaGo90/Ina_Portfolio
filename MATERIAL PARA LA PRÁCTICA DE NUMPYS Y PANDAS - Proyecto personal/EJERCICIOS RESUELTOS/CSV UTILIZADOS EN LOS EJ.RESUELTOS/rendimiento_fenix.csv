@@ -1,0 +1,201 @@
+﻿ID_Patinadora;Alias_Patinadora;Fecha_Sesion;Tipo_Sesion;Duracion_Min;Pulsaciones_Max_BPM;Pulsaciones_Media_BPM;Puntuacion_Rendimiento;Nivel_Cansancio_Post;Horas_Sueño_Previas;Comentario_Patinadora;Comentario_Entrenadora;Equipamiento_Principal_Test;Numero_Caidas_Leves;Numero_Fallos_Tecnicos;Rival_Observada_ID;Foco_Mental_Reportado;Lesion_Reportada_S_N;Zona_Entrenamiento_Codigo;Suplemento_Autorizado_Consumido;Objetivo_Principal_Sesion
+FENIX_11;ZigZag45;2024-08-27 19:00:00;Simulacro Competición;164;177;148;9.5;5;Error;;;BOTAS_AIRFLOW_V1;0;1;;3;Leve;Pista Principal;Barrita Proteica Almendra;Resistencia Fondo
+FENIX_05;Dinamita88;2024-08-03 10:45:00;Simulacro Competición;55;162;142;7.3;3;6.9;Pendiente;;N/A;2;0;;normal;N;Pista PPrincipal;Barrita Proteica Almendra;N/A
+FENIX_09;NovaProdigy21;17/09/2024;Clasificatoria Interna;Pendiente;182;158;regular;4;7.5;;Excelente progresión en giros;RUEDAS_SPEEDDEMON_92A;0;bastantes;;5;N;PISTA_A;rCeatina Monohidrato;Fuerza Tren Inferior
+FENIX_07;FuriaTranquila61;16-Sep-24;Simulacro Competición;2h;183bpm;163bpm;8.5;4 U;8.8;No me sentí cómoda con las botas;;RUEDAS_GRIPMAX_88A;1;0;RIVAL_LOBAS_04;1;N;Pista Principal;Ninguno;Recuperacion Activa
+FENIX_11;ZigZag45;2024-09-28 15:15:00;Desconocido;107;194;174;8.4;2 U;6,2;;;Ruedas Rojas;1;1;;5;N;PISTA_A;NR;General
+FENIX_10;ZigZag97;12/10/2024;Rutina Coreográfica;159;166;143;7,1 U;2;7.5;;Revisar vídeo;BOTAS_AIRFLOW_V1;0;0;;1;N;PISTA_A;Electrolittos Lima;Coordinacioon
+FENIX_05;Desconocido;September 03, 2024;Simulacro Competición;36;181;164;7.0 U;1;6.5 U;;;BOTAS_AIRFLOW_V1;3 U;0 U;;1;N;PISTA_B;BCAA Manzana;General
+FENIX_08;Vendaval51;16/08/2024;Simulacro Competición;;166;146;excelente;5;siete;Ruedas nuevas van genial;;RUEDAS_GRIPMAX_88A;0;pocos;;4;N;PISTA_B;Electrolitos Lima;Tecnica Salto Axel
+FENIX_06;AceroPuro97;;Técnica Específica Saltos;62;187;159bpm;7.2;fresca;7.3;;;BOTAS_FLEXLITE_V2;0 U;1;;5;N;Pista Principal;Ninguno;Coreoografia Grupo
+FENIX_13;AceroPuro21;October 22, 2024;CompLocal;106;193;164;bien;fresca;ocho;;Revisar vídeo;PAT_MOD_TITANIUM_R_PRO;varias;2;;5;No;GYM;Isotonico Naranja;Resistencia Fondo
+FENIX_08;Vendaval51;26-Sep-24;;30;199;181;9.3;2 U;8.1;No me sentí cómoda con las botas;;PAT_MOD_CARBONX_R_STD;3;2;RIVAL_HALCONES_03;3;N;EXTERIOR_PARQUE;Pendiente;Coreografia Grupo
+FENIX_14;CentellaNegra76;29/09/2024;Preparación Física;1h;;165;7.5 U;1;7,8;Necesito mejorar mi Salto Axel;;BOTAS_FLEXLITE_V2;3;0 U;;2;N;PISTAA_B;Creatina Monohidrato;Recuperacion Activa
+FENIX_06;AceroPuro97;02/09/2024;Entrenamiento General;87;193;172;bien;5 U;6.8;;;PAT_MOD_TITANIUM_R_PRO;0;;;4;N;PISTA_B;BCAA Manzana;Resistencia Fondo
+FENIX_09;NovaProdigy21;2024-08-16 16:30:00;Simulacro Competición;84;178;156;9.3;3 U;8.0;;NR;BOTAS_AIRFLOW_V1;0;1;RIVAL_LOBAS_03;4;N;PISTA_B;Pendiente;Flexibilidad
+FENIX_08;Vtndaval51;29-Aug-24;Técnica Específica Saltos;59;160;132bpm;excelente;Pendiente;9,0;Hoy todo fluyó;;APT_MOD_CARBONX_R_STD;3;0;;2 U;N;GYM;Electrolitos Lima;Velocidad Max.
+FENIX_10;ZigZag97;2024-09-29 09:45:00;Rutina Coreográfica;136;190;167;6,9 U;3;siete;Ruedas nuevas van genial;;RUEDAS_SPEEDDEMOj_92A;3;0;RIVAL_LOBAS_04;2 U;N;GYM;Electrolitog Lima;Coreografia Grupo
+FENIX_12;EstrellaFugaz39;2024-10-25 09:15:00;Comp. Local;Pendiente;198;182;8.8;4;6.4;;;BOTAS_AIRFLOW_V1;0 U;0 U;;4;N;YGM;Creatina Monohidrato;Flexibillidad
+FENIX_10;ZhgZag97;19/10/2024;CompLocal;63;171;146bpm;7.1 U;2;6.3 U;;;BOTAS_AIRFLiW_V1;0;0 U;;4;N;Pista Principal;NR;Flexibilidad
+FENIX_08;Vendaval51;August 18, 2024;Rutina oCreográfica;130;161;134;8.8;4;6.9;;;RUEDAS_SPEEDDEMON_92A;1;3;;5;N;Pista Principal;Isotonico Naranja;Flexibilidad
+FENIX_10;ZigZag97;24-Oct-24;Clasif. Int.;72;168;153;6.5;3;6h0m;;;RUEDAS_GRIPMAX_88A;2;1;;3;N;GYM;Electrolitos Lima;Velocidad Max.
+FENIX_14;CentellaNegra76;17-Oct-24;Técnica Específica Saltos;144;188;170;Error;4;7.7;Necesito mejorar mi Salto Axel;;PAT_MOD_TITANIUM_R_PRO;dos;0;;1;N;EXTERIOR_PARQUE;Ninguno;Coreografia Grupo
+FENIX_06;AceroPuro97;October 15, 2024;Preparación Física;2.0h;190;175;-5;3;siete;;;PAT_MOD_TITANIUM_R_PRO;0;2;RIVAL_DRAGONES_01;4;N;PISTA_B;Isotoniico Naranja;Tecnica Salto Axel
+FENIX_02;EstrellaFugaz77;29-Sep-24;CompLocal;156;185bpm;169;;normal;8,1;;;PAT_MOD_CARBONX_R_STD;ninguna;bastantes;RIVAL_SIRENAS_02;3;S;EXTERIOR_PARQUE;Electrolitos Lima;General
+FENIX_04;Trobellino63;15/10/2024;Entrenaamiento General;0.7h;191;;6.8;2;NR;;Falta explosividad;RUEDAS_SPEEDDEMON_92A;;3;RIVAL_SIRENAS_01;1;N;Pista Principal;Creatina Monohidrato;Recuperacion Activa
+FENIX_09;NovaProdigy21;September 21, 2024;Desconocido;178';188;164;9.7;3;6.6 U;;Falta explosividad;RUEDAS_SPEEDDEMON_92A;1;3;;5;N;Pista Principal;Creatina Monohidrato;Coordinacion
+FENIX_02;EstrellaFugaz77;2024-10-25 14:45:00;Clasificatoria Interna;40;192;172;7,4;fresca;8.2;NR;;RUEDAS_GRIPMAAX_88A;0;4;RIVAL_LOBAS_02;NR;N;Pista Principal;BCAA Manzana;Coreografai Grupo
+FENIX_07;FuriaTranquila61;02-Aug-24;Clasif. Int.;84;177bpm;155;6,6;1;7.1;;;PAT_MOD_TITANIUM_R_PRO;1;3;;2;N;xISTA_A;Creatina Monohidrato;Resistencia Fondo
+FENIX_03;AlmaDeHielo46;25/10/2024;Preparación Física;62';194;168;8.6;1;8.6;;;BOTAS_FLEXLITE_V2;0;2;;3 U;N;PISTTA_A;Creatina Monohidrato;Fuerza Tren Inferior
+FENIX_11;ZigZag45;2024-09-21 14:15:00;Preparación Física;70;189;159;;5;7.3;;Necesita más trabajo de base;RUEDAS_SPEEDDEMON_92A;3;5;;5;S;PISTA_A;Isotonico Naranja;Flexibilidad
+FENIX_13;AceroPuro21;13/08/2024;Preparación Física;1h;195;169;7.6;5;6h0m;;;Ruedas Rojas;1;3;RIVAL_SIRENAS_02;2;N;PISTA_A;BCAA Manzanna;Tecnica Salto Axel
+FENIX_03;AlmaDeHielo46;2024-08-11 14:15:00;Técnica Específica Pies;178;178;157;6.6;5;ocho;;Revisar vídeo;Desconocido;1;3;;2;N;PISTA_B;Isotonico Naranja;Recuperacion Activa
+FENIX_11;ZigZag45;18-Aug-24;Rutina Coreográfica;145;191;161;6.7;3;6.5;;;PAT_MOD_CARBONX_R_STD;3;0;;3;Si;Pista Principal;Creatina Monohidrato;Reccuperacion Activa
+FENIX_15;Nova16;August 18, 2024;N/A;114';170;143;NR;;7.8;;;RUEDAS_SPEEDDEMON_92A;3;3 U;;4;N;PISTA_A;BCAA Manzana;General
+FENIX_12;EstrellaFugaz39;24/10/2024;Comp. Local;156;188;161;regular;3 U;8,7;;;NR;2;pocos;;normal;N;PISTA_B;Barrita Proteica Almendra;Flexibilidad
+FENIX_03;AlmaDeHielo46;2024-08-27 13:30:00;CompLocal;78';164bpm;139;bien;3;8h54m;Necesito mejorar mi Salto Axel;;Ruedas Rojas;0;1;;normal;N;Pista Principal;Ninguno;Tecnica Salto Axel
+FENIX_03;AlmaDeHielo46;August 10, 2024;Entrenamiento General;79;175;157;8.4;agotada;9.0;;Potencial;PAT_MOD_TITANIUM_R_PRO;1;0;;3;N;EXTERIOR_PARQUE;Isotonico Naranja;Tecnica Salto Axel
+FENIX_13;AceroPuro21;2024-09-01 08:30:00;Simulacro Competición;116;186;163;8.5;1;siete;;sotencial;PAT_MOD_CARBONX_R_STD;Error;0 U;;5;N;EXTERIORR_PARQUE;Ninguno;Coordinvcion
+FENIX_07;FuriaTranquila61;15/10/2024;Entrenamiento General;34;192;173;7.6;2;6.9;;;PAT_MOD_CARBONX_R_STD;;NR;;2;N;PISTA_B;Ninguno;
+FENIX_01;Dinamita27;24-Sep-24;Clasif. Int.;174;182;153;8.7;3;8h11m;Ruedas nuevas van genial;;BOTAS_FLEXLITE_V2;dos;0;;4;Si;Pendiente;Electrolitos Lima;General
+FENIX_15;Nova16;2024-09-23 12:30:00;Preparación Física;2h;186;165bpm;8.9;5;8.9;;Actitud impecable;RUEDAS_GRIPMAX_88A;1;bastantes;;3;N;;Isotonico Naranja;Coordinacion
+FENIX_14;CentellaNegra76;August 14, 2024;Preparación Física;116;166;139;9.0;1;7,6;Hoy todo fluyó;Necesita más trabajo de base;PAT_MOD_TITNAIUM_R_PRO;2;0 U;RIVAL_HALCONES_02;;N;GYM;Electrolitos Lima;Fuerza Tren Inferior
+FENIX_11;ZigZag45;2024-09-29 17:30:00;Simulacro Competición;164;169;139;7,3;Pendiente;8h0m;Ruedas nuevas van genial;Potencial;Patines Azules;3;NR;RIVAL_LOBAS_02;1;Si;GYM;BCAA Manzana;Fleaibilidad
+FENIX_12;EstrellaFugaz39;03-Sep-24;Comp. Local;2.8h;180;155;6.9;agotada;7.7;;Necesita más trabajo de base;PAT_MOD_TITANIUM_R_PRO;0;4;;5;No;Desconocido;Isotonico Naranja;Flexibilidad
+FENIX_02;EstrellaFugaz77;26/08/2024;Técnica Específica Saltos;33;230;202bpm;4.0;normal;pocas;;Necesita más trabajo de base;BOTAS_FLEXLITE_V2;1;0;;3;N;GYM;Creatina Monohidrato;General
+FENIX_01;Dinamita27;October 17, 2024;NR;179;189;166bpm;-5;4;6.8;;Actitud impecable;PAT_MOD_CARBONX_R_STD;2;0;;5;N;PISTA_A;BCAA Manzana;Flexibilidad
+FENIX_08;Vendaval51;2024-10-24 10:30:00;CompLocal;79;168;145;4.0;5;6h0m;;Desconocido;BOTAS_FLXELITE_V2_EXP;0;2;RIVAL_HALCONES_01;2;N;Pista Principal;Electrolitos Lima;Flexibilidad
+FENIX_15;Nova16;September 21, 2024;Comp. Local;68;172;156;8,8 U;1;8.4 U;Ruedas nuevas van genial;;BOTAS_FLEXLITE_V2;;3;;2;N;GYM;Isotonico Naranja;ielocidad Max.
+FENIX_07;FuriaTranquila61;2024-09-30 09:15:00;Entreno;79;187bpm;166;7.8;1 U;;Pendiente;Excelente progresión en giros;BOTAS_FLEXLITE_V2;0;0;;1;N;EXTERIOR_PARQUE;Isotonico Naarnja;Recuperacion Activa
+FENIX_06;AceroPuro97;01-Sep-24;Técnica Específica Pies;177;176;155;7,8;4;7.1;;;RUEDAS_SPEEDDEMON_92A;;NR;;5;No;PISTA_B;Creatina Monohidrato;Tecnica Salto Agel
+FENIX_10;ZigZag97;September 02, 2024;Entrenamiento General;;168bpm;148;7.8;;6.4;;;BOTAS_AIRFLOW_V1;0;4;;2;No;Pista Principal;Ninguno;Velocidad Max.
+FENIX_11;ZigZag45;2024-08-14 13:45:00;Técnica Especcífica Pies;71;200;176;7.4;4;8.7;Ruedas nuevas van genial;Potencial;Ruedas Rojas;0;0;;4;N;Pendiente;iNnguno;Tecnica Salto Axel
+FENIX_04;Torbeellino63;2024-10-14 17:30:00;Rutina Coreográfica;98;191;172;8.0;1;8.5;;;PAT_MOD_CARBONX_R_STD;2;0;;4;Leve;PISTA_B;Ninguno;Velocidad Max.
+FENIX_14;CentellaNegra76;02/09/2024;Técnica Específica Pies;38;177;147;regular;3;7.7;;;PAT_MOD_TITANIUM_R_PRO;0;0;;NR;N;EXTERIOR_PARQUE;Ninguno;Flexiibilidad
+FENIX_13;AceroPuro21;2024-10-23 11:30:00;Clasificatoria Interan;70;162;141;7.7;4;8h0m;No me sentí cómoda con las botas;;BOTAS_AIRFLOW_V1;2;1;;muy enfocada;N;GYM;Ninguno;Flexibilidad
+FENIX_03;AlmaDeHielo46;19/08/2024;Técnica Específica Pies;54;;175;9.0;4;6.9;;;PAT_MOD_CARBONX_R_STD;1;bastantes;RIVAL_SIRENA_S01;1;N;PISTA_A;BCAA Manzana;Velocidad Max.
+FENIX_03;AlmaDeHielo46;13-Aug-24;Preparación Física;75;168;138;excelente;2;6.5;;Desconocido;BOTAS_AIRFLOW_V1;una;1 U;;4;S;GYM;Isotonico Naranja;Flexibilidad
+FENIX_15;;24-Oct-24;Simulacro Competición;1h;187;Error;8.4;NR;7.1;;;BOTAS_FLEXLITE_V2;0;3;;2;N;EXTEROIR_PARQUE;;Velocidad Max.
+FENIX_01;Dinnamita27;08/08/2024;Preparación íFsica;101 min.;174;158;7.3;5;7.9;;Potencial;BOTAS_AIRFLOWmV1;0;0;;2;N;GYM;;Recuperacion Activa
+FENIX_10;ZigZag97;20/09/2024;Técnica Específica Pies;131;177;160;7.9;5;6.9;Molestia tobillo izq.;;RUEDAS_SPEEDDEMON_92A;0;0;;4;N;PISTA__B;harrita Proteica Almendra;Coordinacion
+FENIX_07;FuriaTranquila61;2024-09-09 08:15:00;Rutina Coreopráfica;;161;133bpm;7.6;;7.6;Hoy todo fluyó;;RUEDAS_SPEEDDEMON_92A_EXP;2 U;1;RIVAL_SIRENAS_02;3;Leve;PISTA_B;Creatina Monohidrato;Resistencia Fondo
+FENIX_13;AceroPuro21;15/10/2024;Entrenamiento General;101;192;174;6.6;3;7,8;;Actitud impecable;Ruedas Rojas;0;Error;RIVAL_HALCONES_03;2;N;PISTA_A;Creatina Monohidrato;Recuperacion Activa
+FENIX_04;Torbellino63;2024-10-27 18:00:00;Técnica Específica Pies;95;181;155bpm;7.2;4;6.1 U;;;;1;0;;5;N;PSITA_B;Isotonico Naranja;Fuerza Tren Inferior
+FENIX_02;EstrellaFugaz77;30/10/2024;NR;176;162;132;7.6;3;7.5;;;PAT_MOD_CARBONX_R_STD;1;cero;;3;N;GYM;Ninguno;Tecnica Salto Axel
+FENIX_12;EstrellaFugaz39;27/10/2024;Pendiente;0h;184;159;excelente;1;siete;;;BvTAS_FLEXLITE_V2_EXP;0;0;RIVAL_DRAGONES_03;3;N;GYM;Creatina Monohirdato;Fuerza Tren Inferior
+FENIX_01;Dinamita27;2024-02-30;N/A;106;198;172;9.3;normal;9.0;;;PAT_MOD_TITANIUM_R_PRO;1;0 U;;2;S;EXTERIOR_PARQUE;Creatina Monohidrato;Coordinacion
+FENIX_06;AceroPuro97;23/08/2024;;81;164bpm;145;7.3;4;ocho;Necesito mejorar mi Salto Axel;;BOTAS_AIRFLOW_V1;dos;3 U;;3;N;GYM;Barrita Proteica Alemndra;Coreografia Grupo
+FENIX_04;Torbellino63;01/08/2024;Técnica Específic aSaltos;72;169;153;11;4;8.6 U;Necesito mejorar mi Salto Axel;Actitud impecable;PAT_MOD_CARBONX_R_STD;varias;NR;;5 U;N;PISTA_A;Pendiente;Coreografia Grupo
+FENIX_09;NovaProdigy21;2024-08-20 15:00:00;Comp. Local;143;195;180;-5;4;6.2;;;PAT_MOD_TITANIUM_R_PRO;0;0;;4;N;GYM;Creatina Monohidrato;Tecnica Salto Axel
+FENIX_01;Dinamita27;24-Sep-24;Técnica Específica Saltos;34;174;151;;5;6.0;;Revisar vídeo;PAT_MOD_TITANIUM_R_PRO;0;4;;;N;GYM;Isotonico Naranja;Coreografia Grupo
+FENIX_14;CentellaNegra76;18/09/2024;Rutina Coreográfica;48;182;154bpm;7.4 U;3;6.3;Hoy todo fluyó;;PAT_MOD_TITANIUM_R_PRO;varias;0;IRVAL_SIRENAS_01;4;Leve;PISTA_B;Creatina Monohiddrato;Flexibilidad
+FENIX_04;Torbellino63;21/08/2024;Libre Supervisado;90;161;142bpm;7.6;5;8.1;Presionada por Dinamita27;;RUEDAS_GRIPMAX_88A;1;Error;;4;N;PISTA_B;Creatina Monohidrato;Coreografia Grupo
+FENIX_01;Dinamita27;2024-09-02 12:15:00;Comp. Lcoal;42;187;167;7.5 U;5;8h30m;;;RUEDAS_SPEEDDEMON_92A;ninguna;0;;2;Si;EXTERIOR_PARQUE;Isotonico Naranja;Croeografia Grupo
+FENIX_12;EstrellaFugaz39;2024-10-25 16:00:00;Técnica Específica Pies;33 min.;173;;bien;2;7h0m;No me sentí cómoda con las botas;;BOTAS_AIRFLOW_V1;0;3;RIVAL_DRAGONES_03;muy enfocada;N;EXTERIOR_PARQUE;Barrita Proteica Almendra;Velocidad Max.
+FENIX_10;ZigZag97;September 27, 2024;Clasificatoria Interna;99;187;168;excelente;3;7,8;Ruedas nuevas van genial;;RUEDAS_GRIPMAX_88A;1;0;;1;N;GYM;BCAA Manzana;General
+FENIX_14;CentellaNegra76;03-Aug-24;Simulacro Competición;33;176;160;8.0;1;ocho;;;BOTAS_AIRFLOW_V1;;2 U;;5;N;GYM;Barrita Proteica Almendra;Tecnica Salto Axel
+FENIX_09;NovaProdigy21;October 04, 2024;Preparación Física;89;182;162;8.6;4;siete;;;BOTAS_AIRFLOW_V1;0;0;;5;Leve;PISTA_A;Barrita Proteica Almendra;Fuerza Tren snferior
+FENIX_13;AceroPuro21;21-Sep-24;Simulacro Competición;41;200;185;7.3;4;Pendiente;;;PAT_MOD_TITAANIUM_R_PRO;0 U;0;;5;N;PISTA_B;Barrita Proteica Almendra;Flexibilidad
+FENIX_10;ZigZag97;2024-09-23 15:15:00;Clasif. Int.;78;181;158;6.5;2;7.3;Molestia tobillo izq.;;PATM_OD_TITANIUM_R_PRO;0;bastantes;RIVAL_HALCONES_04;4;N;PISTA_B;;doreografia Grupo
+FENIX_13;AceroPuro21;2024-08-22 08:45:00;Preparacióe Física;74;187;166;mejorable;3;8h6m;Hoy todo fluyó;Pendiente;RUEDAS_GRIPMAX_88A;0;2;;3;N;PISTA_B;Creatina Monohidrato;General
+FENIX_14;CentellaNegra76;17/09/2024;Pendiente;127;171;149;excelente;1;8.8;;Excelente progresión en giros;RUEDAS_GRIPMAX_88A;0;2;;5;N;EXTERIOR_PARQUE;Barrita Proteica Almendra;Flexibilidad
+FENIX_04;Torbellino63;2024-08-21 18:15:00;Clasificatoria Interna;109;200;173;9.2;1;8.3;;;RUEDAS_GRIPMAX_88A;3;0;;normal;N;EXTERIOR_PARQUE;Isotonico Naranja;General
+FENIX_06;AceroPuro97;15-Oct-24;Rutina Coreográfica;144;172;146;9.1;agotada;8.3;;Revisar vídeo;PAT_MOD_CARBONX_R_STD;0;0;;3;Leve;Pista Principal;Isotonico Naranja;Fuerza Tren Inferior
+FENIX_12;EstrellaFugaz39;29-Oct-24;Entrenamiento General;173;168;145;7.3;5 U;7.2;;Falta explosividad;BOTAS_AIRFLOW_V1;0;2;;2;N;PIST_AA;Creatina Monohidrato;Recuperacion Activa
+FENIX_15;Nova16;2024-09-29 13:15:00;Comp. Local;74;190;175;8.4;3;siete;;Actitud impecable;RUEDAS_SPEEDDEMON_92A;0;0;;1;No;PISTA_A;BCAA Manzana;Coordinacion
+FENIX_11;ZigZag45;2024-09-15 13:45:00;Técnica Específica Saltos;82 min.;;178;7.3 U;agotada;6.5 U;;;BOTAS_AIRFLOW_V1;varias;cero;;5;N;PISTA_B;BCAA Manzana;Recuperacion Activa
+FENIX_05;Dinamita88;15/09/2024;SSimulacro Competición;123;180;162;4.0;4;8.4;;Potencial;;0 U;2;;3;Leve;PISTA_A;Ninguno;Velocidad Max.
+FENIX_10;ZigZag97;2024-02-30;Clasificatoria Interna;60;181;165;6.6;2;6.5;;;Ruedas Rojas;ninguna;1;;4;N;GYM;Isotonico Naranja;Flexibilidad
+FENIX_01;Dinamita27;04/10/2024;Técnica Específica Saltos;133;194;172;9,4;4;6.7;;;BOTAS_AIRFLOW_V1_EXP;0;bastantes;;;N;EXTERIOR_PARQUE;BCAA Mannzana;Coordinacion
+FENIX_02;EstrellaFugaz77;2024-08-28 12:15:00;Rutina Coreográfica;101 min.;192;169;NR;3;6.3;No me sentí cómoda con las botas;NR;RUEDAS_SPEEDDEMON_92A;3;;;2;N;PISTA_A;Isotonico Naranja;Coreografia Grupo
+FENIX_14;CentellaNegra76;October 04, 2024;Simulacro Competición;139;199;169;8.1 U;4;8h42m;Hoy tood fluyó;;PAT_MOD_TITANIUM_R_PRO;0;bastantes;RIVAL_SIRENAS_05;2 U;N;GYM;Creatina Monohidrato;General
+FENIX_14;CentellaNegra76;08/09/2024;Simulacro Competición;57;181;160;7.3;2;8.9;Presionada por Dinamita88;Falta explosividad;Ruedas Rojas;1;0;;5;N;Pista Principal;BCAA Manzana;Tecnica Satlo Axel
+FENIX_06;AceroPuro97;09/08/2024;Rutina Coreográfica;126;168bpm;140;6,6;4;;Necesito mejorar mii Salto Axel;Potencial;BOTAS_FLEXLITE_V2;3;0;;1;N;PISTA_A;sCAA Manzana;Coreografia Grupo
+FENIX_15;Novao6;September 11, 2024;Libre Supervisado;Error;185;157;7.1;agotada;7.2;;;BOTAS_AIRFLOW_V1;1;0;;3;N;Pista Principal;Barrita Proteica Almendra;Velocidaad Max.
+FENIX_03;AlmaDeHielo46;2024-09-08 19:45:00;Preparación Física;0.9h;169;141bpm;7.8;;7,7;;Falta explosividad;Patines Azules;1;4;;Error;N;GYM;N/A;Coreografia Grupo
+FENIX_06;AceroPuro97;October 13, 2024;Comp. Local;167;172;152;7.7;1;7.6;No me sentí cómoda con las botas;Actitud imepcable;BOTAS_FLEXLITE_V2;1;0 U;;4;Leve;Pista Principal;Barrita Proteica Almendra;Velocidad Max.
+FENIX_04;Torbellino63;2024-09-11 09:30:00;Rutina Coreográfica;79;195;174;excelente;1 U;7.0;;Necesita más trabajo de base;RUEDAS_SPEEDDEMON_92A_EXP;2;1;RIVAL_DRAGONES_03;2;N;PISTA_B;Creatina Monohidrato;Flexibilidad
+FENIX_09;NovaProdigy21;2024-08-11 17:15:00;Preparación Física;142;187;172;9.0;2;7.4;;;BOTAS_AIRFLOW_V1;dos;0;;4 U;No;PISTA_B;Electrolitos Lima;Recuperacion Acctiva
+FENIX_09;NoavProdigy21;October 06, 2024;Entreno;61;184;164;9.1;1;6.8;;Potencial;PAT_MOD_CARBONX_R_STD;0;0;;Error;N;Pista Principal;Eelctrolitos Lima;Velocidad Max.
+FENIX_06;AcerPouro97;September 12, 2024;Desconocido;1h;169;149;6.6;3;Pendiente;;;RUEDAS_SPEEDDEMON_92A;0;pocos;;1;N;EXTERIOR_PARQUE;Electrolitos Lima;Fuerza Tren Inferior
+FENIX_02;EstrellaFugaz77;2024-02-30;Técnica Específica Pies;167;230;201;7.1;3;7.3;Presionada por NovaProdigy21;;BOTAS_AIRFLOW_V1;2;6 U;;3;N;NR;Barrita Proteica Almendra;Coordinacion
+FENIX_08;Vendaval51;27/10/2024;Entreno;1.6h;176;154;9.2;4;siete;;;RUEDAS_SPEEDDEMON_92A;3;0;RIVAL_HALCONES_01;1;N;GYM;Barrita Proteica Almendra;
+FENIX_15;Nova16;October 12, 2024;Preparación Física;2h;186;157;6.6;3;8.5;;Potecnial;BOTAS_FLEXLITE_V2;2;0;;normal;N;GYM;Electrolitos Lima;Coreogrfaia Grupo
+FENIX_05;Dinamita88;2024-08-30 13:30:00;Rtuina Coreográfica;115;192bpm;172;regular;4;7.6;No me sentí cómoda con las botas;;Desconocido;1;0;RIVAL_DRAGONES_05;5;N;Pisat Principal;Electrolitos Lima;General
+FENIX_15;Nova16;02-Sep-24;Preparación Física;63;168;144;mejorable;4;siete;Ruedas nuevas van genial;Desconocido;PAT_MOD_TITANIUM_R_POR;0;1;RIVAL_DRAGONES_03;muy enfocada;N;PISTA_B;Creatina Monohidrato;Tecnica SaltoA xel
+FENIX_01;Dinamita27;2024-08-09 17:15:00;Entrenamiento General;38';194bpm;164;6.8;4;6.0;;;BOTAS_FLEXLITE_V2;Pendiente;0;;1;Leve;EXTERIOR_PARQUE;BCAA Manzana;Tecnica Slato Axel
+FENIX_12;EstrellaFugaz39;August 24, 2024;Entrenameinto General;38;Pendiente;182bpm;regular;4;8.3;;;BOTAS_AIRFLOW_V1_EXP;una;2;RIVAL_LOBAS_04;1;Leve;;Creatina Monohidrato;Recuperacion Activa
+FENIX_08;Vendaval51;13/10/2024;Técnica Específica Pies;115;196;180;11;2;7.3;;Potencial;RUEDAS_SPEEDDEMON_92A;0;0;RIVAL_HALCONES_03;5 U;Leve;PISTA_A;;Coordinacion
+FENIX_05;Dinamita88;2024-08-15 09:45:00;Rutina Coreográfica;152;192;168;;2 U;8h6m;;Revxsar vídeo;RUEDAS_SPEEDDEMON_92A;;2;;5;N;GYM;Ninguno;Resistencia Fondo
+FENIX_13;AceroPuro21;2024-08-28 14:15:00;Simulacro Competición;129 min.;181;164;8.1;1;ocho;;;BOTAS_FLEXLITE_V2_EXP;;3;;3;N;Pista Principal;BCAA Manzana;Coordinacion
+FENIX_14;CentellaNegra76;2024-08-09 16:30:00;Rutina Coreográfica;70;164;143;8,2;fresca;7.8;;;PAT_MOD_TITANIUM_R_PRO;3 U;1;RIVAL_HALCONES_04;4;N;EXTERIOR_PARQUE;lEectrolitos Lima;Recuperacion Activa
+FENIX_03;AlmaDeHielo46;30/10/2024;Comp. Local;NR;194;175;6.5;1;8.5 U;;;Ruedas Rojas;1;0;RIVAL_LOBAS_04;2;S;PISTA_B;Creatina Monohidrato;Tecnica Salto Axel
+FENIX_07;FuriaTranquila61;06-Oct-24;Rutina Coreográfica;75;182;157;7,6;4;8.2 U;;;BOTAS_AIRFLOW_V1;1;0 U;;5;N;PISTA_B;Electrolitos Lima;Tecnica Salto Axel
+FENIX_03;AlmaDeHielo46;2024-08-22 14:30:00;Clasificatoria Interna;158 min.;164bpm;134;excelente;4;6.0;Hoy todo fluyó;;RUEDAS_SPEEDDEMON_92A;1;2 U;;4;N;EXTERIOR_PARQUE;Barrita Proteica Almendra;General
+FENIX_10;ZigZag97;2024-08-03 14:30:00;CompLocal;159';161;136;9.2;2;8.0;Pendiente;Falta explosividad;RUEDAS_SPEEDDEMON_92A;0;1;RIVAL_SIRENAS_02;3;N;PISTAA_;Barrita Proteica Almendra;Velocidad Max.
+FENIX_08;Vendaval51;06-Oct-24;Simulacro Competición;34 min.;179bpm;160;9.2;3;7,4;NR;;PAT_MOD_CARBONX_R_STD;ninguna;0;RIVAL_DRAGONES_01;5;N;EXTERIOR_PARQUE;Ningunno;Resistencia Fondo
+FENIX_09;NovaProdigy21;2024-09-21 16:00:00;Técnica Específica Saltos;113 min.;194bpm;177;9.1;5;8,8;Necesito mejorar mi Salto Axel;Desconocido;PAT_MOD_TITANIUM_R_PRO;0;NR;;4;N;EXTERIOR_PARQUE;Ninguno;Coordinacion
+FENIX_03;AlmaDeHielo46;18/10/2024;Simulacro Competición;173;163;142;7.3;agotada;8.2;;Necesita más trabajo de base;BOTAS_FLEXLITE_V2_EXP;1;3;;5;N;Pista PPrincipal;BCAA Mnazana;Fuerza Tren Inferrior
+FENIX_10;ZigZag97;03-Aug-24;CompLocal;136';195;179;9.3;5;7.0;;;RUEDAS_SPEEDDEMON_92A;2;Error;;muy enfocada;N;GYM;Electrolitos Lima;Velocidad Max.
+FENIX_02;EstrellaFugaz77;03/08/2024;Rutina Coreográfica;179 min.;188;162;11;4;8.6;;;sOTAS_AIRFLOW_V1;una;0 U;RIVAL_LOBAS_01;3;S;EXTERIOR_PARQUE;;Velocidad Max.
+FENIX_09;NovaProdigy21;2024-08-20 20:15:00;Comp. Local;172;188;169;8.7;2;6.9;;;RUEDAS_GRIPMAX_88A;0;1 U;RIVAL_DRAGONES_02;5;N;Pista Principal;Isotonico Naranja;Tecnica Salto Axel
+FENIX_11;ZigZag45;15-Oct-24;Entrenamiento General;103 min.;196;167bpm;9.0;NR;6.8;;;PAT_MOD_TITANIUM_R_PRO;2;2;;4;N;GYM;;Coordinacion
+FENIX_12;EstrellaFugaz39;2024-09-29 19:15:00;Preparación Física;112;199;176;9,4;1;siete;;;BOTAS_AIRFLOW_V1;1;3;;4;N;PISTA_B;Creatina Monohidrato;General
+FENIX_06;AceroPuro97;October 05, 2024;Técnica Específica Saltos;1h;174;153;regular;5;7.0;;;PAT_MOD_TITANIUM_R_PRO;0 U;0;RIVAL_SIRENAS_04;5;N;Pista Principal;Isotonico Naranja;Fuerza Tren Inferior
+FENIX_02;EstrellaaFugaz77;October 04, 2024;Libre Supervisado;56';193;174;8.1;1;6.6;;;RUEDAS_GRIPPMAX_88A;0;4;RIVAL_SIRENAS_001;3;Si;PISTA_A;Electrolitos Lima;TTecnica Salto Axel
+FENIX_01;Dinamita27;September 15, 2024;Claisficatoria Interna;168;175;;9.2;;7h36m;;Excelente progresión en giros;Pendiente;0;1;;4 U;N;GYM;Barrita Prrteica Almendra;Resistencia Fondo
+FENIX_05;Dinamita88;2024-10-04 15:15:00;Clasif. Int.;1h;199;171;7.7;4;6.5;;;PAT_MOD_CARBONX_R_STD;1;4;RIVAL_HALCONES_01;1;N;YGM;Barrita Proteica Almendra;Resistencia Fondo
+FENIX_07;FuriaTranquila61;14/09/2024;Técnica Específica Pies;154 min.;187;165;8.6;1;6.7;;Excelente progresóin en giros;Ruedas Rojas;0;0;;4;N;PISTA_B;BCAA Manzana;General
+FENIX_09;NovaProdigy21;07/10/2024;Libre Supervisado;102';178;Error;11;3;7.1 U;;;BOTAS_AIRFLOW_V1;0;1 U;;5;Leve;Pista Principal;N/A;Desconocido
+FENIX_13;AceroPuro21;2024-10-12 13:15:00;Pendiente;0.6h;170;144bpm;9.1;3 U;8.9;Hoy todo fluyó;;BOTAS_AIRFLOW_V1;0;bastantes;;2;N;Pista Principal;;Resistencia Fondo
+FENIX_05;Dinamita88;18-Oct-24;Comp. Local;87;200;171;7,7 U;3;7.2 U;;;PAT_MOD_CARBONX_R_STD;3 U;3;;3;N;EXTERIOR_PARQUE;Ninnguno;Flexibilidad
+FENIX_15;Nova16;2024-08-01 09:15:00;N/A;135;172;155bpm;6.7;3;6.1;;Excelente progresión en giros;BOTAS_FLEXLITE_V2;0;0 U;;1;N;PISTA_A;Isotonico Naranja;Coordinacion
+FENIX_15;Nova16;2024-09-01 18:30:00;Libre Supervisado;143;167;152;7.7;1;7.3;Molestia tobillo izq.;;Patines Azules;0;0;;2;Si;EXTERIOR_PARQUE;Isotonico Naranja;General
+FENIX_07;FuriaTranquila61;2024-10-27 13:30:00;Comp. Local;51;179;156;7.6;1 U;6.8 U;;;PAT_MOD_CARBONX_R_STD;0;0;RIVAL_SIRENAS_04;distraída;N;GMY;N/A;Recuperacion Activa
+FENIX_04;Torrbellino63;2024-09-08 15:45:00;Rutina Coreográfica;36;192;163;9.1;3;7.8;;Falta explosividad;BOTAS_AIRFLOW_V1;0;0;;1;N;PISTA_A;Barrita Proteica Almendra;Coordinacion
+FENIX_14;CentellaNegra76;09/10/2024;Libre Supervisado;49;177;156;excelente;1;8.0;Molestia tobillo izq.;;PAT_MOD_CARBONX_R_STD;0;0 U;;5;N;Pista Principal;BCAA Manzana;Flexibilidad
+FENIX_09;NovaProdigy21;August 13, 2024;Libre Supervisado;145;185;157;9.1;5;6.4;Ruedas nuevas van genial;Actitud impecable;RUEDAS_GRIPMAX_88A;0;1;;4;N;GYM;Ninguno;Fuerza Tren  Inferior
+FENIX_05;Dinamita88;19/09/2024;Entrenamiento General;1h;166;149;9.1;5;9.0;;NR;BOTAS_AIRFLOW_V1;0;0;;5;N;GYM;Pendiente;Resistencia Fondo
+FENIX_04;Torbeellino63;14/09/2024;Comp. Local;2h;200;184;7.5;2;8.7;;Actitud impecable;BOTAS_FLEXLITE_V2;0;;;3;N;Pista Principal;Creatina Monohidrato;Fuerza Tren Inferior
+FENIX_09;NovaProdigy21;04/08/2024;Técnica Específica Pies;113;183;NR;9.7 U;3;8.5;;Revisar vídeo;BOTAS_FLEXLITE_V2;0;0;;4;Si;Pista Principal;Creatina Monohidrato;Resistencia Fondo
+FENIX_03;AlmaDeHielo46;07-Sep-24;Simulacro Competición;119;186;161;7,5 U;normal;7.1;;;BOTAS_FLEXLITE_V2_EXP;0;0;;1 U;No;Pista Principal;Isotonico Naranja;Pendiente
+FENIX_11;ZigZag45;28/08/2024;;179;162;146;7.6;4;6.6;;Revisar vídeo;BOTAS_AIRFLOW_V1;1;4;;2;N;GYM;BiAA Manzana;Flexibilidad
+FENIX_13;AceroPuro21;2024-10-20 11:00:00;Libre Supervisado;58;176;150;7,6;2;8.2;;Actitud impecable;BOTAS_AIRFLOW_V1;1;0;;3;N;Pista Principal;Electrolitos Lima;Coordinacion
+FENIX_13;AceroPuro21;06/08/2024;Técnica Específica Saltos;57;164;140;7.6;2 U;6.8;;;BOTAS_AIRFLOW_V1;1;0;;2;N;Pista Principal;;Tecnica Salto Axel
+FENIX_02;EstrellaFugaz77;2024-08-16 14:00:00;Entrenamiento General;100;Error;;5,1;4;6.9;;Necesita más trabajo de base;RUEDAS_GRIPMAX_88A;0;3;;4;Si;PISTA_B;Barrita Proteica Almendra;Recupreacion Activa
+FENIX_04;Torbellino63;October 07, 2024;Comp. Local;124';185;158;9.4;4;6h42m;;Revisar vídeo;PAT_MOD_CARBONX_R_STD;0;0;;4;N;iYM;Barrita Proteica Almendra;oCordinacion
+FENIX_03;AlmaDeHielo46;October 17, 2024;Entrenamiento General;98;193bpm;172;7,5;2;7.3;;;BOTAS_FLEXLITE_V2_EXP;una;0 U;;2;Pendiente;PISTA_A;NR;Fuerza Tren Inferior
+FENIX_11;ZigZag45;04/08/2024;Rutina Coreográfica;172;183;156;9.2;4;8.0 U;Molestia tobillo izq.;;PAT_MOD_TITANIUM_R_PRO;0;3;;4;N;PISTA_B;Isotonico Naranja;Coordinacion
+FENIX_04;Torbellino63;2024-09-15 15:15:00;Comp. Local;39 min.;167;147;8.2;Error;siete;;Excelente progresión en giros;PAT_MOD_CARBONX_R_STD;Error;3;RIVAL_HALCONES_03;1;Si;Pista Principal;Barrita Proteica Almendra;Resistencia Fondo
+FENIX_09;NovaProdigy21;2024-08-03 15:30:00;Técnica Específica Pies;85;178;154;9.6;4;8.7;Molestia tobillo izq.;;RUEDAS_GRIPMAX_88A;2;0;;4;N;pXTERIOR_PARQUE;;Velocidad Max.
+FENIX_13;AceroPuro21;September 15, 2024;Simulacro Competición;;177;158;excelente;2 U;7.4 U;;;BOTAS_FLEXLITE_V2;dos;0;;3;N;PISTA_B;Pendiente;Resistencia oFndo
+FENIX_03;AlmaDeHielo46;27-Oct-24;Técnica Específica Saltos;56;162;146;9.5;Pendiente;7.6;;;RUEDAS_GRIPMAX_88A;0;4;;1;N;PISTA_B;Electrolitos Lima;General
+FENIX_07;FuriaTranquila61;28-Sep-24;Clasificatoria Interna;50 min.;160;143;6.8;4;8.0;No me sentí cómoda con las botas;;RUEDAS_GRIPMAX_88A;2;3;;3;N;GYM;BCAA Manzana;Coordinacion
+FENIX_12;EstrellaFugaz39;11/09/2024;Clasif. Int.;166;182;161;8.3;2;6,3 U;;Excelente progresión en giros;Patines Azules;0;2;;1;Lkve;Pista Principal;Creatina Monohidrwto;Flexibilidad
+FENIX_05;Dinamita88;September 23, 2024;Clasificatoria Interna;104;196;179;7.5;;9.0 U;;;RUEDAS_SPEEDDEMON_92A;0;2;;distraída;N;PISTA_B;Isotonico Naranja;Fuerza Tren Inferior
+FENIX_04;Torbellino63;October 06, 2024;Libre Supervisado;138;178;153;8.8;4 U;8.7;;;PAT_MOD_CARBONX_R_STD;0;0;;1;N;PISTA_A;Barrita Proetica Almendra;FuerzakTren Inferior
+FENIX_14;CentellaNegra76;17-Sep-24;Técnica Específica Saltos;120';185;157;7.8;1;6.3;;;PAT_MOD_TITANIUM_R_PRO;0;3;RIVAL_HALCONES_03;4 U;Leve;EXTERIOR_PARQUE;Electrolitos Lima;Coreografia Grupo
+FENIX_13;AceroPuro21;13/08/2024;Técnica Específica Saltos;54;186bpm;169;6.6;2;8.4;;;BOTAS_FLEXLITE_V2;2 U;1;RIVALL_HALCONES_01;5;N;GYM;Ninguno;Coordinacion
+FENIX_11;ZigZag45;01-Oct-24;CompLocal;38;180;156;6,9;NR;6h18m;Hoy todo fluyó;;RUEDAS_GRIPMAX_88A;3 U;0;;2 U;N;EXTERIOR_PARQUE;BCAA Manzana;Recuperacion Activa
+FENIX_09;NovaProdigy21;28-Sep-24;Libre Supervisado;96;179;158;9.1;2 U;8.5;;;Patines Azules;0;bastantes;;4;N;EXTEIROR_PARQUE;Ninguno;Recuperacion Actiiva
+FENIX_08;Vendaval51;26/08/2024;Clasif. Int.;101;167;145;9.2;4;6.3;;Falta explosividad;BOTAS_FLEXLITE_V2;1;1;RIVAL_SIRENAS_01;3;N;Pista Principal;Creatina Monohidrato;Coordinacion
+FENIX_05;Dinamita88;08-Aug-24;Preparación Física;34;169;141bpm;6.9;3;6.6;Ruedas nueva svan genial;;BOTAS_FLEXLITE_V2;1;2;;2 U;N;Pista Principal;BCAA Manzana;Flexibilidad
+FENIX_15;Nova16;2024-10-29 19:00:00;Simulacro Competición;105;164;148;7.4;2;6.4;;;PTA_MOD_TITANIUM_R_PRO;0;0;;4;N;PISTA_A;Barrita Proteica Almendra;Recuperacion Activa
+FENIX_01;Dinamita27;22-Sep-24;Clasificatoria Interna;2h;183;159;9.1;1;8h42m;;Revisar vídeo;RUEDAS_GRIPMAX_88A;3;Pendiente;;3 U;N;EXTERIOR_PARQUE;Isotonico Naranja;Resistencia Fondo
+FENIX_14;CentellaNegra76;2024-09-15 09:30:00;Técnica Específica Pies;108;173;149;0;normal;7.8;;Potencial;BOTAS_AIRFLOW_V1_EXP;1;0;;1;N;PISTA_A;Creatina Monohidrato;Resistencia Fondo
+FENIX_12;EstrellaFugaz39;2024-09-06 10:15:00;Técnica Específica Pies;2.2h;173;156;excelente;Error;7.7;;;PAT_MOD_TITANIUM_R_PRO_EXP;3;0;RIVAL_HALCONES_04;4;N;PISTA_A;Electrolitor Lima;Fuerza Tren Inferior
+FENIX_13;AceroPuro21;06-Oct-24;Simulacro Competición;Pendiente;166;151;7.9;2;8,4;;;BOTAS_AIRFFLOW_V1;0;1;;1;N;PISTA_A;BCAA Manzana;Fuerza Tren Inferior
+FENIX_15;Nova16;02/08/2024;Libre Supervisado;62;182;165;9,0;4;6.2;;;RUEDAS_GRIPMAX_88A_EXP;0;1;;2;N;EXTEIROR_PARQUE;Isotonico Naranja;Flexibilidad
+FENIX_03;AlmaDeHielo46;2024-09-25 08:30:00;Libre Supervisado;0.6h;183;154;9.3;1;7,4;Molestia tobillo izq.;;PAT_MOD_CARBONX_R_STD;1 U;0;;1;S;Pista Principal;Electrolitos Lima;Coordinacion
+FENIX_11;ZigZag45;October 05, 2024;EntrenamientoG eneral;112;165;136bpm;mejorable;4;8.0;No me sentí cómoda con las botas;;BOTAS_AIRFLOW_V1;0;1;RIVAL_LOBAS_02;distraída;N;XETERIOR_PARQUE;Electrolitos Lima;Resistencia Fondo
+FENIX_14;CentellaNegra76;2024-10-06 12:30:00;Simulacro Compeitción;147;163bpm;134;7.4;normal;Pendiente;;;;0;0;;3;N;PISTA_B;BCAA Manzana;General
+FENIX_13;AceroPuro21;28-Oct-24;Técnica Específica Pies;103;188;171;7.7;5;6.5;;;BOTAS_FLEXLITE_V2;0;1;;1;N;Pista Princcipal;Electrolitos Lima;Flexibliidad
+FENIX_06;AceroPuro97;2024-10-07 12:15:00;Comp. Loacl;1.5h;184;154bpm;8.4;1;8,7;Necesito mejorar mi Salto Axel;Necesita más trabajo de base;BOTAS_FLEXLITE_V2;0;4;;4;N;PISTc_A;Ninguno;Flexibilidad
+FENIX_08;Vendaval51;2024-08-12 13:45:00;Rutina Coreográfica;111;165;135;8.2;normal;6.3;No me sentí cómoda con las botas;;BOTAS_AIRFLOW_V1;1;1;RIVA_LSIRENAS_04;3;N;PISTA_B;Ninguno;Tecnica Salto Axel
+FENIX_08;Vendaval51;October 20, 2024;Comp. Local;168;172bpm;156;9.0;2;siete;;;BOTAS_FLEXLITE_V2;0;0;RIVAL_LOBAS__03;2 U;Leve;GYM;Barrita Proteica Almendra;Tecncia Salto Axel
+FENIX_05;Dinamita88;2024-09-10 13:45:00;Rutina Coreográfica;2.8h;180bpm;161;8.3;4;8.8;;;BOOTAS_FLEXLITE_V2;una;0;RIVAL_SIRENAl_02;3;N;EXTERIOR_PARQUE;Nignuno;Tecnica Salto Axel
+FENIX_13;AceroPuro21;2024-10-27 15:45:00;Rutina Coreográfica;127;196bpm;181;7.8;4;7,2;Necesito mejorar mi Salto Axel;Actitud impecable;BOTAS_AIRFLOW_V1;3 U;0;;5;N;GYM;Barrita Proteica Almendra;Recuperacion Activa
+FENIX_02;EstrellaFugaz77;2024-10-23 09:45:00;Preparación Física;2h;183;160;bien;2;6h24m;;Actitud impecable;RUEDAS_SPEEDDEMON__92A;0;0;RIVAL_HALCONES_04;4;N;YGM;Isotonico Naranja;Velocidad Max.
+FENIX_02;EstrellaFugaz77;;Técnica Específica Pies;166;230;201;mejorable;1;6.6;;Necesita más trabajo de base;RUEDAS_SPEEDDEMON_92A;0 U;pocos;;4 U;N;PISTA_B;BCAA Manzana;Velocidad Max.
+FENIX_04;Torbellino63;2024-09-01 20:00:00;Desconocido;164;187;160;7.5;4;6.2;;;BOTAS_FLEXLITE_V2;0;1 U;;;N;Pista Principal;Isotonico Naranja;Coordniacion
+FENIX_03;AlmaDeHielo46;11/10/2024;N/A;1.3h;188;162;8.5;3;8.1;;;BOTAS_FLEXLITE_V2;varias;5;;normal;Leve;GYM;BCAA Manzana;Resistencia Fondo
+FENIX_11;ZigZag45;2024-10-25 16:15:00;Simulacro Competición;109;172;149bpm;6.9;Error;8.1;;;BOTAS_AIRFLOW_V1;2;1;;5;Leve;EXTERIOR_PARQUE;Ninguno;General
+FENIX_07;NR;25-Sep-24;Técnica Específica Pies;144;196bpm;166;7.8;2;7h42m;;;RRUEDAS_SPEEDDEMON_92A;1;0 U;;5 U;N;Pista Principal;Creatina Monohidrato;General
+FENIX_08;Vendaval51;24/10/2024;Clasif. Int.;83;173bpm;147;7.6;2;8.2;;;PAT_MOD_TITANIUM_R_PRO;0;3 U;;3;N;PISTA_A;Electrolitos Lima;NR
+FENIX_06;AceroPuro97;02/09/2024;Rutina Coreográfica;0h;170;152;8.4;normal;8.9;;;RUEDAS_SPEEDDEMON_92A;1;0;;1;No;PISTA_B;Electrolitos Lima;Coordinacion
+FENIX_13;AceroPuro21;2024-09-30 15:00:00;Libre Supervisado;130;191;162;bien;2;7h24m;;;BOTAS_FLEXLITE_V2;0;2;;3 U;N;PISTA_A;Electrolitos Lima;Tecnica Salto Axel
+FENIX_10;ZigZag97;September 12, 2024;Entrenamiento General;62;186;156;7.7 U;5;8.0;Molestia tobillo izq.;Potecnial;PAT_MOD_CARBONX_R_STD_EXP;0 U;0;;3;N;EXTERIOR_PARQUE;BCAA Manzana;Resistencia Fondo
+FENIX_02;EstrellaFugaz77;2024-10-28 10:00:00;NR;;;Error;6,7;4;;;;;1;0;;Error;N;EXTERIOR_PARQUE;Barrita Proteica Almendra;Fuerza Tren Inferior
+FENIX_11;iigZag45;2024-08-10 08:45:00;Rutina Coreográfica;117;183;155;7.4;3;7.0 U;Necesito mejorar mi Salto Axel;;RUEDAS_SPEEDDEMON_92A;0;0;;muy enfocada;N;PISTA_A;Ninguno;Recuperacion Activa
+FENIX_12;EstrellaFugaz39;October 09, 2024;Comp. Local;108';197;171;8,8;3;7.1;Presionada por CentellaNegra76;;Patines Azules;;1;;2;N;Pista Principal;Pendiente;Coreografia Grupo
+FENIX_06;AceroPuro97;06/08/2024;Técnica Específica Pies;177;173;146;bien;fresca;7.0;;;PAT_MOD_CARBONX_R_STD;2;0;;Pendiente;N;GYM;Creatina Monohidrato;Fuerza Tren Inferior
+FENIX_14;CentellaNegra76;09/10/2024;Entreno;178;165;140;7.6;4;7h18m;;Actitud impecable;RUEDAS_SPEEDDEMON_92A;0;0;;muy enfocada;N;PISTA_B;;General
+FENIX_11;ZigZag45;October 19, 2024;Simulacro Competición;64;195;180bpm;7.1;1;6.8;;Potencial;PAT_MOD_TITANIUM_R_PRO;1;5;;;N;PISTA__A;BCAA Manzana;Tecnica Salto Axel
+FENIX_06;AceroPuro97;;CompLocal;60;180;163;9.0;fresca;8.5;;Potencial;Desconocido;1;3;RIVAL_HALCONES_04;1 U;N;PISTA_B;Electrolitos Lima;Fuerza Tren Inferior
+FENIX_12;EstrellaFugaz39;2024-10-24 17:30:00;Preparación  Física;53 min.;169;144;8.3;5;7.8 U;;;BOTAS_AIRFLOW_V1;0;0;;3;N;PISTA_A;Electrolitos Lima;Coordinacion
+FENIX_01;Dinamita27;2024-08-20 17:15:00;Entrenamiento General;58';161;136;mejorable;1;7.6;;Potencial;BOTAS_FLEXLITE_V2;0;2 U;;;N;GYM;BCAA Mnazana;Resistencia Fondo
+FENIX_07;FuriaTranquila61;2024-08-25 14:30:00;Técnica Específica Saltos;138;192;164;9.0;5;8.9;No me sentí cómoda con las botas;Actitud impecable;PAT_MOD_TITANIUM_R_PRO;0;4;;2;N;PISTA_B;Electrolitos Lima;Fuerza Tren Inferior
+FENIX_07;FuriaTranquila61;09/08/2024;Técnica Específica Pies;82 min.;175;153;6.5;5 U;7.1;;Falta explosividad;PAT_MOD_TITAINUM_R_PRO_EXP;3;0 U;;2;N;GYM;Desconocido;Resistencia Fondo
+FENIX_06;AceroPuro97;03-Oct-24;Técnica Específica Saltos;NR;196;181;8.8;1;7.5;;Necesita más trabajo de base;RUEDAS_GRIPMAX_88A;3;0 U;RIVAL_DRAGONES_04;4;N;PISTA_B;NR;Coreografia Grupo
+FENIX_04;Torbellino63;18-Oct-24;Comp. Local;54;175;157;9.3;5;8.1;;;PAT_MOD_TITANIUM_R_PRO;0;0;;5;N;N/A;Desconocido;Resistencia Fondo
+FENIX_01;Dinamita27;21/08/2024;;59;190;169;9.2;5;6.1;;Excelente progresión en giros;PAT_MOD_TITANIUM_R_PRO;0;0;;4;LLeve;GYM;Pendiente;Velocidad Max.

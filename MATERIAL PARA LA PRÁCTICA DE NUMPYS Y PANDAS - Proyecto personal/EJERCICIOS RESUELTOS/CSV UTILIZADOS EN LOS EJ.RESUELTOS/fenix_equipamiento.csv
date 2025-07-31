@@ -1,0 +1,26 @@
+﻿ID_Registro_Equip;ID_Patinadora;Tipo_Articulo;Marca_Modelo_Equip;Fecha_Adquisicion;Estado_Actual;Desgaste_Observado
+EQ001;FENIX_02;Cuchillas Figura Master;Marca_X_475;2024-02-04;Usado;Leve
+EQ002;FENIX_01;Protecciones Rodilla Pro;Marca_X_703;2023-10-31;Bueno;Ninguno
+EQ003;FENIX_08;Ruedas Dureza 92A;Marca_X_926;2023-08-11;Usado;Leve
+EQ004;FENIX_07;Patines Competicion Alpha;Marca_X_100;2023-08-17;Nuevo;Leve
+EQ005;FENIX_10;Botas Modelo Elite;Marca_Z_495;2024-03-29;Bueno;Medio
+EQ006;FENIX_06;Patines Competicion Alpha;Marca_Y_650;2023-10-22;Bueno;
+EQ007;FENIX_11;Ruedas Dureza 92A;Marca_Y_887;2023-09-04;Usado;Alto
+EQ008;FENIX_10;Cuchillas Figura Master;Marca_Y_493;2023-11-19;Nuevo;
+EQ009;FENIX_09;Patines Entrenamiento Beta;Marca_X_406;2024-05-29;Usado;Alto
+EQ010;FENIX_11;Ruedas Dureza 92A;Marca_X_973;2024-04-07;Nuevo;Ninguno
+EQ011;FENIX_13;Protecciones Rodilla Pro;Marca_Z_512;2024-06-11;Nuevo;Alto
+EQ012;FENIX_10;Protecciones Rodilla Pro;Marca_Z_524;2024-06-24;Nuevo;
+EQ013;FENIX_05;Ruedas Dureza 92A;Marca_Z_469;2024-04-13;Usado;
+EQ014;FENIX_07;Protecciones Rodilla Pro;Marca_Z_785;2024-06-25;Bueno;Leve
+EQ015;FENIX_09;Prototipo Experimental Z-99;Marca_X_117;2024-02-26;Impecable;Como nuevo
+EQ016;FENIX_06;Ruedas Agarre Extremo 88A;Marca_Z_714;2023-08-31;Bueno;Alto
+EQ017;FENIX_11;Ruedas Agarre Extremo 88A;Marca_Z_998;2024-04-10;Bueno;Medio
+EQ018;FENIX_07;Cuchillas Figura Master;Marca_Y_260;2023-10-03;Usado;Ninguno
+EQ019;FENIX_04;Patines Competicion Alpha;Marca_X_532;2024-02-20;Nuevo;Medio
+EQ020;FENIX_04;Patines Entrenamiento Beta;Marca_Y_383;2023-10-14;Bueno;
+EQ021;FENIX_12;Patines Competicion Alpha;Marca_Z_703;2023-11-03;Usado;Alto
+EQ022;FENIX_03;Ruedas Agarre Extremo 88A;Marca_X_180;2024-03-24;Bueno;Medio
+EQ023;FENIX_14;Casco Aero Dinamic;Marca_Z_543;2024-05-28;Usado;Ninguno
+EQ024;FENIX_01;Botas Modelo Elite;Marca_Z_262;2023-09-20;Usado;Ninguno
+EQ025;FENIX_08;Protecciones Rodilla Pro;Marca_X_928;2024-01-13;Nuevo;Leve
