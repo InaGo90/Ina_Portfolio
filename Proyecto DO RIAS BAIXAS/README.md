@@ -1,5 +1,3 @@
-He creado un borrador de `README.md` que puedes usar. Es una extensión del que ya habías escrito, pero incluye una sección más detallada que explica la metodología técnica que has utilizado para crear el informe, basándome en los gráficos que me has enviado.
-
 -----
 
 ### Proyecto de Análisis de la D.O. Rías Baixas
@@ -46,3 +44,4 @@ Los datos utilizados para este análisis son de acceso público y provienen dire
 ### 💻 Cómo acceder al informe
 
 El informe de Power BI, con extensión **`.pbix`**, se encuentra dentro de este mismo repositorio. Para visualizarlo, simplemente **descarga el archivo y ábrelo con la aplicación de Power BI Desktop** en tu computadora.
+
