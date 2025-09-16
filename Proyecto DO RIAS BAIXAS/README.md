@@ -44,4 +44,3 @@ Los datos utilizados para este análisis son de acceso público y provienen dire
 ### 💻 Cómo acceder al informe
 
 El informe de Power BI, con extensión **`.pbix`**, se encuentra dentro de este mismo repositorio. Para visualizarlo, simplemente **descarga el archivo y ábrelo con la aplicación de Power BI Desktop** en tu computadora.
-
